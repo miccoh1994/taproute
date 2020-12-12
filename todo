@@ -1,0 +1,3 @@
+generate endpoints with id in the path for GET PUT DELETE
+check if model has attribute, if not throw an error asking for array of objects with ModelName and primary key.
+create routes that respect tandys interpretation of relationships

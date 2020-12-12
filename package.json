@@ -1,0 +1,24 @@
+{
+  "name": "taproute",
+  "version": "1.0.0",
+  "description": "Route Templating for Hapipal using Schwifty Models:)",
+  "main": "./lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/eslint-config-hapi": "^13.0.2",
+    "babel-eslint": "^10.1.0",
+    "ejs": "^3.1.5",
+    "eslint": "^7.15.0",
+    "joi": "^17.3.0",
+    "knex": "^0.21.12",
+    "objection": "^2.2.3",
+    "schwifty": "^5.4.1"
+  }
+}
